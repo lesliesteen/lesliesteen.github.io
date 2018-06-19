@@ -1,0 +1,31 @@
+.col-xs-12 {
+  margin: 10;
+  padding: 20px;
+}
+
+p {
+    color: rgb(0,0,0);
+    font-family: 'Adobe Caslon Pro';
+    font-size: 9pt;
+    margin-top: 0.3em
+}
+
+h1 {
+    color: black;
+    font-family: 'Spectogram';
+    font-size: 24pt;
+    margin-top: 0.3em
+}
+
+.headerrow {
+  position:fixed;
+  z-index:9999;
+}
+
+.videorow {
+  padding-top: 2em
+}
+
+.image {
+  width: 80%;
+}
